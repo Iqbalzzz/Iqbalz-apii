@@ -1,7 +1,7 @@
 {
-  "name": "ra-api",
+  "name": "iqbalz-api",
   "version": "1.3.2",
-  "description": "bye @rayyreall",
+  "description": "bye @iqbalz",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rayyreall/Ra-Apii.git"
+    "url": "git+https://github.com/Iqbalzzz/Iqbalz-apii.git"
   },
   "keywords": [
     "scrapper",
     "api",
-    "ra",
-    "rayyreall"
+    "iqbalz",
+    "iqbalz"
   ],
-  "author": "rayyreall",
+  "author": "iqbalz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rayyreall/Ra-Apii/issues"
+    "url": "https://github.com/Iqbalzzz/Iqbalz-apii/issues"
   },
-  "homepage": "https://github.com/rayyreall/Ra-Apii#readme"
+  "homepage": "https://github.com/Iqbalzzz/Iqbalz-apii#readme"
 }
